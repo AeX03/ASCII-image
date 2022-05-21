@@ -12,9 +12,15 @@
 - [x] Windows10/11 2022
 
 ## About
+* What's the point ? it's used to personalize your programs :)
 
 ### Instruction
+  * download it in the release and launch it, follow the tutorial just below :)
+  * https://github.com/AeX03/ASCII-image/releases/tag/Ascii
   
 ## Video
   
 ### Use Tool
+  
+https://user-images.githubusercontent.com/103602164/169663693-fa762718-79eb-44df-977f-cc5651fdcd32.mp4
+
