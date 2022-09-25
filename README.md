@@ -18,7 +18,7 @@
 
 ### Instruction
   * download it in the release and launch it, follow the tutorial just below :)
-  * https://github.com/AeX03/ASCII-image/releases/tag/Ascii
+  * download on my [Discord](http://discord.gg/xpaxKBEx9t) Channels
   
 ## Video
   
